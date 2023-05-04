@@ -19,12 +19,4 @@ Now that we have a fully configured Spring Security app, the next step is to mak
 
 
 ### Hints: 
-```{toggle}
-Change these files: JwtUserDetailsService.java, SecurityConfig.java, JTWAuthenticationController
-Add new files: models/MyUser.java, repository/MyUserRepository.java
-
-Note that these hints are specific to one solution to this exercise. If your solution does not match this, it
-is not necessarily an incorrect approach. 
-
-Click the next hint to see what exactly we change/add:
-```
+To view hints, run util/HintRead.java
